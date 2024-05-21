@@ -1,0 +1,23 @@
+
+
+.user {
+    border-radius: 50%;
+    height : 8vh;
+   
+}
+
+.email {
+    color:white;
+   margin-left: 5vh;
+}
+
+.name {
+    color: white;
+    margin-right: 80vh;
+}
+
+.nav-item:hover {
+    background-color: lightgray;
+    
+}
+
